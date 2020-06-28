@@ -7,3 +7,6 @@ print('Ola: '+nome ' sua idade é: '+idade)
 Nova linha
 
 Alteração local
+
+
+COmintando antes do uso do STASH
