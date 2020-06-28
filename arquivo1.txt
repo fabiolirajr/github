@@ -8,5 +8,11 @@ Nova linha
 
 Alteração local
 
+<<<<<<< Updated upstream
 
 COmintando antes do uso do STASH
+=======
+GIT STASH
+>>>>>>> Stashed changes
+
+nova branch
